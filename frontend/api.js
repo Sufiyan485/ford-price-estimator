@@ -9,7 +9,7 @@
  * ---------------------------------------------------------------
  */
 
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://ford-price-estimator.onrender.com";
 
 /**
  * The exact set of Ford models the backend was trained on
